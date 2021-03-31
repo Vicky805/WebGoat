@@ -25,6 +25,7 @@
 
 package org.owasp.webgoat.auth_bypass;
 
+// test CI PEC4
 import org.hamcrest.CoreMatchers;
 import org.junit.Before;
 import org.junit.Test;
